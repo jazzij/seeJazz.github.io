@@ -9,11 +9,13 @@
 locale                   : "en-US"
 title                    : "JasmineJones / seeJazz"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+name                     : &name "Jasmine Jones"
+description              : &description "I am an Assistant Professor in Computer and Information Science at Berea College.
+                                         I received my PhD in Information Science from the University of Michigan. I was privileged to be a part of SocialWorlds group, advised by Prof. Mark Ackerman, and supported (primarily) by an NSF Graduate Research Fellowship, Rackham Merit Fellowship, and GEM Graduate Research Fellowship. I also was a member of the DoIIIT Studio and MISC. After my PhD, I joined the GroupLens Research Center at the University of Minnesota. I worked with a great bunch of folks, chiefly Prof. Lana Yarosh.
+                                         I’m also a proud graduate of UMBC and the Meyerhoff Scholars Program."
+url                      : https://conceptanjolima.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/seeJazz.github.io" # the subpath of your site, e.g. "/blog"
+repository               : "/ConceptaNjolima/seeJazz.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
