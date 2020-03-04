@@ -1,15 +1,20 @@
 ---
-title: "Paper Title Number 2"
+title: "Values of Digital Care and Wellness"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Can digital tools ameliorate the information and communication challenges of managing chronic health conditions, for individuals and their caregivers and supporters? '
 date: 2010-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Can digital tools ameliorate the information and communication challenges of managing chronic health conditions, for individuals and their caregivers and supporters? (Collaborative work)
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Can wearables for self-tracking help people maintain their recovery from substance abuse?](https://drive.google.com/file/d/15hHnhC_Ov3IapwLyBKQr0g5Hf-Bhx9r2/view?usp=sharing) (2017-18, ongoing)
+
+[Parents caring for children undergoing bone marrow transplant](https://dl.acm.org/authorize?N42837) (CSCW 2015)
+
+[School Nurses helping families understand and trust community health providers](http://di.ncl.ac.uk/empathy/files/2013/11/Jones_and_Kaziunas.pdf) (2012-13)
+
 
 Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
