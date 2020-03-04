@@ -11,13 +11,13 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 How can we pass down our digital memories down to future generations? What are the collective values and social practices that shape how memories are shared?
 
 <br/><img src='/images/kk_davidsgirls.jpg.png'
-alt="The girls"
 style="float: center; margin-right: 10px; height: 500px; width:500px;"/>
+<br/><caption>="The girls"</caption>
 
 
 [How do families share their memories across generations?](https://dl.acm.org/authorize?N667045) (CHI 2018)
 
-[How can we help parents capture meaningful memories of their kids, without ruining the moment?](/_posts/2014-08-14-blog-post-3.md) (CSCW 2017)
+[How can we help parents capture meaningful memories of their kids, without ruining the moment?](https://conceptanjolima.github.io/seeJazz.github.io/posts/2014/08/blog-post-3/) (CSCW 2017)
 
 [How do people deal with “overload” when they have too many sentimental things?](https://dl.acm.org/authorize?N40683) (Group 2016)
 
