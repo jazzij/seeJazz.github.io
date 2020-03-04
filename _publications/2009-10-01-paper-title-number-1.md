@@ -11,8 +11,8 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 How can we pass down our digital memories down to future generations? What are the collective values and social practices that shape how memories are shared?
 
 <br/><img src='images/kk_davidsgirls.jpg.png'
-style="float: center; margin-right: 10px; height: 1024px; width:768px;"/>
-<br/><caption>="The girls"</caption>
+style="float: center; margin-right: 10px; height: "500px"; width:"500px";"/>
+<br/><caption>The girls</caption>
 
 
 [How do families share their memories across generations?](https://dl.acm.org/authorize?N667045) (CHI 2018)
