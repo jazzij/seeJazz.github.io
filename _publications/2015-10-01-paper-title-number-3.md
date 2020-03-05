@@ -10,7 +10,7 @@ citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 
 ---
 How should we design differently when technologies become part of our bodies? This work considers the current and aspirational technology experiences of people with vision and motor impairments.
 
-![](images/kk_davidsgirls.JPG)
+![](https://github.com/ConceptaNjolima/seeJazz.github.io/blob/master/images/kk_davidsgirls.jpg)
 
 **The girls**
 
