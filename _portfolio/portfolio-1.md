@@ -1,12 +1,12 @@
 ---
 title: "Crafting a Narrative Inheritance"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2018-04-01-paper-title-number-1
 excerpt: "How can we pass down our digital memories down to future generations?"
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2018-04-01
+venue: 'CHI 2018'
 paperurl: 'https://dl.acm.org/authorize?N667045'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+
 ---
 How can we pass down our digital memories down to future generations? What are the collective values and social practices that shape how memories are shared?
 
