@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-05-01-paper-title-number-3
 excerpt: 'How should we design differently when technologies become part of our bodies? '
 date: 2015-05-01
-venue: 'Journal 1'
+venue: 'ICTD 2015: Proceedings of the Seventh International Conference on Information and Communication Technologies and Development'
 paperurl: 'http://jazzij.people.si.umich.edu/pubs/jjones_chiworkshop_interarch_designhealth.pdf'
 
 ---
