@@ -8,8 +8,10 @@ venue: 'ICTD 2015: Proceedings of the Seventh International Conference on Inform
 paperurl: 'http://jazzij.people.si.umich.edu/pubs/jjones_chiworkshop_interarch_designhealth.pdf'
 
 ---
+
 How should we design differently when technologies become part of our bodies? This work considers the current and aspirational technology experiences of people with vision and motor impairments.
 
+![Perspectives on Assistive Devices](cooperate_reachout.png)
 
 
 [Dampeners:  how social environments influence positive and negative experiences with enabling technologies](https://dl.acm.org/authorize?N42838) (ICTD 2013)

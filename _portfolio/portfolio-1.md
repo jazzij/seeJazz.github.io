@@ -1,8 +1,6 @@
 ---
 title: "Crafting a Narrative Inheritance"
 collection: publications
-type: grid
-teaser=kk_davidsgirls.jpg
 permalink: /publication/2018-04-01-paper-title-number-1
 excerpt: "How can we pass down our digital memories down to future generations?"
 date: 2018-04-01
@@ -11,7 +9,7 @@ paperurl: 'https://dl.acm.org/authorize?N667045'
 
 ---
 How can we pass down our digital memories down to future generations? What are the collective values and social practices that shape how memories are shared?
-
+![Narrative Inheritance](kk_davidsgirls.jpg)
 
 [How do families share their memories across generations?](https://dl.acm.org/authorize?N667045) (CHI 2018)
 

@@ -10,7 +10,7 @@ paperurl: 'https://drive.google.com/file/d/15hHnhC_Ov3IapwLyBKQr0g5Hf-Bhx9r2/vie
 ---
 Can digital tools ameliorate the information and communication challenges of managing chronic health conditions, for individuals and their caregivers and supporters? (Collaborative work)
 
-
+![Digital Wellness](salonePhone.png)
 
 [Can wearables for self-tracking help people maintain their recovery from substance abuse?](https://drive.google.com/file/d/15hHnhC_Ov3IapwLyBKQr0g5Hf-Bhx9r2/view?usp=sharing) (2017-18, ongoing)
 
