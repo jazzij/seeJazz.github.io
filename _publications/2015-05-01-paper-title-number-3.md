@@ -1,12 +1,12 @@
 ---
 title: "Critical Perspectives on Assistive Devices"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2015-05-01-paper-title-number-3
 excerpt: 'How should we design differently when technologies become part of our bodies? '
-date: 2015-10-01
+date: 2015-05-01
 venue: 'Journal 1'
 paperurl: 'http://jazzij.people.si.umich.edu/pubs/jjones_chiworkshop_interarch_designhealth.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+
 ---
 
 [![KidKeeper](http://img.youtube.com/vi/-De9I97_tPQ/0.jpg)](http://www.youtube.com/watch?v=-De9I97_tPQ "KidKeeper Promo Video")
