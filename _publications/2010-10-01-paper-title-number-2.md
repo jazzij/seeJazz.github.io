@@ -1,12 +1,12 @@
 ---
 title: "Values of Digital Care and Wellness"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2017-01-01-paper-title-number-2
 excerpt: "Can digital tools ameliorate the information and communication challenges of managing chronic health conditions, for individuals and their caregivers and supporters? "
-date: 2010-10-01
-venue: 'Journal 1'
+date: 2017-01-01
+venue: 'GroupLens, Dept. of Computer Science, University of Minnesota'
 paperurl: 'https://drive.google.com/file/d/15hHnhC_Ov3IapwLyBKQr0g5Hf-Bhx9r2/view?usp=sharing'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+
 ---
 Our work seeks to apply the social and technical expertise of the HCI community in technology-supported behavior change towards supporting people’s recovery from substance abuse. Personal informatics tools have been shown to be effective and engaging for people starting new behaviors and maintaining long-term habits in similar contexts, such as smoking cessation (Paaye et al 2015). Specialized behavioral self-tracking tools could potentially be incredibly impactful in the process of recovery from substance abuse.
 

@@ -1,9 +1,9 @@
 ---
 title: "Values of Digital Care and Wellness"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2017-01-01-paper-title-number-2
 excerpt: "Can digital tools ameliorate the information and communication challenges of managing chronic health conditions, for individuals and their caregivers and supporters? "
-date: 2010-10-01
+date: 2017-01-01
 venue: 'Journal 1'
 paperurl: 'https://drive.google.com/file/d/15hHnhC_Ov3IapwLyBKQr0g5Hf-Bhx9r2/view?usp=sharing'
 
