@@ -8,6 +8,9 @@ venue: 'GroupLens, Dept. of Computer Science, University of Minnesota'
 paperurl: 'https://drive.google.com/file/d/15hHnhC_Ov3IapwLyBKQr0g5Hf-Bhx9r2/view?usp=sharing'
 
 ---
+
+[![KidKeeper](http://img.youtube.com/vi/-De9I97_tPQ/0.jpg)](http://www.youtube.com/watch?v=-De9I97_tPQ "KidKeeper demo")
+
 Our work seeks to apply the social and technical expertise of the HCI community in technology-supported behavior change towards supporting people’s recovery from substance abuse. Personal informatics tools have been shown to be effective and engaging for people starting new behaviors and maintaining long-term habits in similar contexts, such as smoking cessation (Paaye et al 2015). Specialized behavioral self-tracking tools could potentially be incredibly impactful in the process of recovery from substance abuse.
 
 Insights from prior qualitative work in our research group and in the addiction research community has established that specialized self-tracking tools would be useful and desirable for this population (e.g. Yarosh, 2013). Therefore, we are currently investigating how people employ digital self-tracking tools, in concert with traditional treatment and supplemental maintenance programs, to support their own recovery efforts.

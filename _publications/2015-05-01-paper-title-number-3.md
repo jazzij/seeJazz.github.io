@@ -9,7 +9,7 @@ paperurl: 'https://dl.acm.org/doi/10.1145/2737856.2738025'
 
 ---
 
-[![KidKeeper](http://img.youtube.com/vi/-De9I97_tPQ/0.jpg)](http://www.youtube.com/watch?v=-De9I97_tPQ "KidKeeper Promo Video")
+[![Sierra Leone presentation](http://img.youtube.com/vi/rywdirxNdDw/0.jpg)](http://www.youtube.com/watch?v=rywdirxNdDw "Amplified Capabilities of People with Disabilities in Sierra Leone - Jasmine Jones")
 
 This note discusses the use of cyborg theory to study assistive technology (AT) use by people with visual impairment (VI) in development contexts. We argue that the deep intimate interconnections that people form with their AT, while allowing them to become cyborgs, also become the means by which they can be regulated and controlled.
 
