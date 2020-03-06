@@ -3,8 +3,8 @@ title: "Crafting a Narrative Inheritance"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: "How can we pass down our digital memories down to future generations?"
-date: 2018-10-01
-venue: 'CHI '18: Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems'
+date: 2009-10-01
+venue: 'CHI 2018: Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems'
 paperurl: 'https://dl.acm.org/authorize?N667045'
 
 ---
