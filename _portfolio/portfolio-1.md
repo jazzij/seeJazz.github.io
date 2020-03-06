@@ -17,4 +17,3 @@ How can we pass down our digital memories down to future generations? What are t
 
 [How do people deal with “overload” when they have too many sentimental things?](https://dl.acm.org/authorize?N40683) (Group 2016)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
