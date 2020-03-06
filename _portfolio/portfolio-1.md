@@ -2,6 +2,7 @@
 title: "Crafting a Narrative Inheritance"
 collection: publications
 type: grid
+teaser=kk_davidsgirls.jpg
 permalink: /publication/2018-04-01-paper-title-number-1
 excerpt: "How can we pass down our digital memories down to future generations?"
 date: 2018-04-01
