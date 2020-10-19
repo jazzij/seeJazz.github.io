@@ -7,15 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "seeJazz"
+title                    : "See Jazz Work"
 title_separator          : "-"
 name                     : &name "Jasmine Jones"
-description              : &description "I am an Assistant Professor in Computer and Information Science at Berea College.
-                                         I received my PhD in Information Science from the University of Michigan. I was privileged to be a part of SocialWorlds group, advised by Prof. Mark Ackerman, and supported (primarily) by an NSF Graduate Research Fellowship, Rackham Merit Fellowship, and GEM Graduate Research Fellowship. I also was a member of the DoIIIT Studio and MISC. After my PhD, I joined the GroupLens Research Center at the University of Minnesota. I worked with a great bunch of folks, chiefly Prof. Lana Yarosh.
-                                         I’m also a proud graduate of UMBC and the Meyerhoff Scholars Program."
-url                      : https://conceptanjolima.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/seeJazz.github.io" # the subpath of your site, e.g. "/blog"
-repository               : "/ConceptaNjolima/seeJazz.github.io"
+description              : &description "Personal Site of Jasmine Jones, PhD"
+url                      : https://jazzij.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/jazzij.github.io" # the subpath of your site, e.g. "/blog"
+repository               : "/jazzij/jazzij.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -59,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "@seejazzwork"
 facebook:
   username               :
   app_id                 :
@@ -84,11 +82,11 @@ analytics:
 author:
   name             : "Jasmine Jones"
   avatar           : "jaztech.png"
-  bio              :
-  location         : "Berea, Kentucky"
-  employer         :
+  bio              : "trailblazing"
+  location         : 
+  employer         : "Berea College"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=O2Ftt2AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=jY_5OMkAAAAJ&hl=en"
   email            : "drjaztech@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
