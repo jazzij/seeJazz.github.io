@@ -1,7 +1,7 @@
 ---
 title: 'Learning from Family Mysteries'
 date: 2020-10-20
-permalink: /posts/2020/10/non-telling/
+permalink: /posts/2020-10-non-telling/
 tags:
   - family storytelling
   - publications
