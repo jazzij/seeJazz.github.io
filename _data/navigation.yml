@@ -13,7 +13,7 @@ main:
 #    url: /portfolio/
         
   - title: "Blog posts"
-    url: /blog/
+    url: /year-archive/
     
   - title: "CV"
     url: /files/jjones_vitae_aug2019.pdf
