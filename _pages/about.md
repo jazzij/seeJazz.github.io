@@ -18,3 +18,6 @@ I am an Assistant Professor in Computer and Information Science at [Berea Colleg
 
 I received my PhD in Information Science from the [University of Michigan](http://si.umich.edu/). I was privileged to be a part of SocialWorlds group, advised by Prof. Mark Ackerman, and supported (primarily) by an NSF Graduate Research Fellowship, Rackham Merit Fellowship, and GEM Graduate Research Fellowship. I also was a member of the [DoIIIT Studio](http://doiiit.github.io/) and [MISC](http://misc.si.umich.edu/). I joined the [GroupLens](https://grouplens.org/) Research Center as a postdoc at the University of Minnesota. I worked with a great bunch of folks, mentored by Prof. [Lana Yarosh](http://lanayarosh.org/). I’m also a proud alumni of [UMBC](http://umbc.edu/) and the Meyerhoff Scholars Program.
 
+---
+
+_This website is currently under construction_
