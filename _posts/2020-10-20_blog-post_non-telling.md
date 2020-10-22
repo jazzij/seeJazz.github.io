@@ -23,7 +23,6 @@ Drawing from the results of an interview-based, practice-oriented inquiry, we ar
 ---------------------
 
 **Presentation Video**
-<iframe src="https://drive.google.com/file/d/1HJRMw0ueYq5GP0BUJ7aUUHAHYBFahJV-/preview" width="640" height="480"><p>Intro video</p></iframe>
 
 [![Intro video](https://res.cloudinary.com/marcomontalbano/image/upload/v1603331925/video_to_markdown/images/google-drive--1HJRMw0ueYq5GP0BUJ7aUUHAHYBFahJV--c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1HJRMw0ueYq5GP0BUJ7aUUHAHYBFahJV-/preview "Intro video")
 
