@@ -4,12 +4,11 @@ date: 2020-10-20
 permalink: /posts/2020-10-non-telling/
 tags:
   - cool posts
-  - family storytelling
-  - publications
-  - research
-  - refusal
+  - category1
+  - category2
 ---
-![image](/images/storytellr_bernard_palomera_2018.jpg)
+
+![Family Story Telling](storytellr_bernard_palomera_2018.jpg)
 
 Learning from Family Mysteries
 ==============================
