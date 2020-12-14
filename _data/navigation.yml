@@ -1,7 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "CV"
+    url: /files/jjones_vitae_aug2019.pdf
+
+#  - title: "Publications"
+#    url: /publications/
 
 #  - title: "Talks"
 #    url: /talks/    
@@ -9,13 +12,14 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/    
     
-#  - title: "Portfolio"
-#    url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
         
-  - title: "Blog posts"
+#  - title: "Blog posts"
+#    url: /year-archive/
+
+  - title: "Commentary"
     url: /year-archive/
     
-  - title: "CV"
-    url: /files/jjones_vitae_aug2019.pdf
     
 
